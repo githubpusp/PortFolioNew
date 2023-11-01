@@ -5,9 +5,9 @@
   </div>
   <div>
   <h2> Hi, I am Puspita </h2>
-      <button type="button">You can see my CV here
-      <a href="https://githubpusp.github.io/PortFolioNew/">
+    <a href="https://githubpusp.github.io/PortFolioNew/">
+     <button type="button" style="background-color: #008CBA;">You can see my CV here</button>
     </a>
-    </button>
+    
   </div>
 </div>
