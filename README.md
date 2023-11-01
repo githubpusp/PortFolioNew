@@ -1,14 +1,5 @@
 # PortFolioNew
-<div>
-  <div >
-    <img src="PPhoto.png" border_radius="50%" style="width: 30%; height: 30%;float:left;>
-  </div>
-  <div>
-  <p><h2> Hi, I am Puspita </h2>
-    <a href="https://githubpusp.github.io/PortFolioNew/">
-     <button type="button" style="background-color: #008CBA;">You can see my CV here</button>
-    </a>
-  </p>
-    
-  </div>
-</div>
+
+
+<img align="left" src="[PPhoto](https://github.com/githubpusp/PortFolioNew/blob/de668d54bab7d503ca7661e580a313994454d2d7/PPhoto.png)https://github.com/githubpusp/PortFolioNew/blob/de668d54bab7d503ca7661e580a313994454d2d7/PPhoto.png" />
+Hi, I am Puspita 
