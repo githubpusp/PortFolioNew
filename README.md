@@ -1,8 +1,7 @@
 # PortFolioNew
 
   <img src="PPhoto.png" border_radius="50%" style="width: 100px;">
-  <p>
-    <div style="font-size:50px>
+  <p style="font-size:50px>
       Hi,I am Puspita
     </div>
   </p>
