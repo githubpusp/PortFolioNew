@@ -1,14 +1,8 @@
 # PortFolioNew
 
 <p>
-  <img align="left" src="PPhoto.png" />
-  <h2>Hi, I am Puspita </h2>
-
+  <img align="left" src="PPhoto.png" border_radius="50%"/>
+  <p>Hi, I am Puspita 
+    <h1>Puspita Jana</h1>
+  </p>
 </p>
-<div id="bigtext" style="width: 300px">
-  <div>The elusive</div>
-  <div>BIGTEXT</div>
-  <div>plugin exclusively</div>
-  <div>captured on film</div>
-</div>
-$('#bigtext').bigtext();
